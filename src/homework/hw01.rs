@@ -1,4 +1,6 @@
 #[test]
-fn test1() {
-    assert_eq!(1 + 1, 2);
+fn test1_still_problem() {
+    let person = ("Quattroformagio".to_string(), 33);
+
+    let pizza = ("Jim".to_string(), 60);
 }
